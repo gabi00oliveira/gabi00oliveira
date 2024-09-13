@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabi00oliveira
 - 👀 I’m interested in learnin
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me in my email gabriellevasconcelosoliveira@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
