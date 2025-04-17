@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabi00oliveira
 - 👀 I’m interested in learnin
-- 🌱 I’m currently learning Html,CSS, Banco de Dados, e Programação e Algorítmo
+- 🌱 I’m currently learning C#,Java, Banco de Dados, Programação Mobile, Análise de Sistemas
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me in my email gabriellevasconcelosoliveira@gmail.com
 - 😄 Pronouns: she/her
